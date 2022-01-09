@@ -1,0 +1,6 @@
+package new
+
+
+
+class rofl {
+}
